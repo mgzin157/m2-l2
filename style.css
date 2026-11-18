@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    /* Font family */
+    font-size: 11px;
+    /* O tamanho da fonte principal<p></p> tag  */
+    background-color: #2f2c2c;
+    /* A cor do plano de fundo da página */
+    color: #ffffff;
+    /* A cor do texto */
+}
+
+h1 {
+    color: #ea8f2f;
+    /* A cor do cabeçalho */
+    font-size: 24px;
+    /* A cor da fonte do cabeçalho */
+    font-family: Georgia, serif;
+    /* A font usada no cabeçalho*/
+}
+
+h1:hover {
+    cursor: pointer;
+    color: green;
+    text-decoration: underline;
+}
